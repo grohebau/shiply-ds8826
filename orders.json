@@ -1,0 +1,47 @@
+{
+  "S16194": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Simon Neumann, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Michael Matzunsky, Wolferts 41, 36160 Dipperz, Deutschland",
+    "price": "3.150 €",
+    "description": "Hersteller: Zündapp<br>Typ: KS 50 SuperSport 530‑50<br>Fahrgestelnummer: 9101484<br>Erstzulassung: 02/1977<br>KM laut Vorbesitzer: 21.302 km<br>Leistung: 4,6 kW (6,3 PS)<br>Hubraum: 49 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Michael Matzunsky<br>Wolferts 41<br>36160 Dipperz<br>Deutschland<br>Telefon: +49 170 7228190",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "28-08-2025",
+    "deliveryDate": "03-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
