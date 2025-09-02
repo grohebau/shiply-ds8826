@@ -1,6 +1,6 @@
 {
   "S16194": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Daniel Simon Neumann, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Michael Matzunsky, Wolferts 41, 36160 Dipperz, Deutschland",
@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "28-08-2025",
-    "deliveryDate": "03-09-2025",
+    "deliveryDate": "03-09-2025, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
-      "city": "",
+      "city": "Hannover",
       "country": "",
-      "lat": "",
-      "lng": ""
+      "lat": "52.357237299516285",
+      "lng": "9.869106047553505"
     },
     "delivery": {
       "street": "",
