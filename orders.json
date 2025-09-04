@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "28-08-2025",
-    "deliveryDate": "03-09-2025, 15:30 Uhr",
+    "deliveryDate": "05-09-2025, 11:00 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
-      "city": "Hannover",
+      "city": "Petersberg",
       "country": "",
-      "lat": "52.357237299516285",
-      "lng": "9.869106047553505"
+      "lat": "50.55732328171418",
+      "lng": "9.729880491697529"
     },
     "delivery": {
       "street": "",
